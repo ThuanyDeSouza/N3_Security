@@ -21,4 +21,4 @@
 - Manipulação de arquivos em Python, incluindo leitura, escrita e formatação dos dados.
 - Utilização de bibliotecas e recursos da linguagem Python para codificação/decodificação, cálculos matemáticos e outros fins.
 
-Em resumo, o projeto parece ter sido uma oportunidade valiosa para aprender e praticar habilidades em criptografia, manipulação de arquivos e implementação de algoritmos em Python. O projeto abordou especificamente o algoritmo RSA, mas há muito mais a ser descoberto sobre segurança da informação e criptografia.
+Em resumo, o projeto parece ter sido uma oportunidade valiosa para aprender e praticar habilidades em criptografia, manipulação de arquivos e implementação de algoritmos em Python.
