@@ -14,7 +14,7 @@
 - Na criptografia, os valores não estão batendo com o exemplo do professor.
 
 ## Avaliação do projeto
-### Ao concluir esse projeto, é provável que você tenha aprendido bastante sobre os seguintes aspectos:
+### Ao concluir esse projeto, foi possível apredenr sobre os seguintes aspectos:
 
 - Entendimento do algoritmo RSA e seus princípios básicos.
 - Implementação do algoritmo RSA para criptografar e descriptografar dados usando Python.
