@@ -14,12 +14,11 @@
 - Na criptografia, os valores não estão batendo com o exemplo do professor.
 
 ## Avaliação do projeto
-### Ao concluir esse projeto, foi possível apredenr sobre os seguintes aspectos:
+### Ao concluir esse projeto, foi possível aprender sobre os seguintes aspectos:
 
 - Entendimento do algoritmo RSA e seus princípios básicos.
 - Implementação do algoritmo RSA para criptografar e descriptografar dados usando Python.
 - Manipulação de arquivos em Python, incluindo leitura, escrita e formatação dos dados.
 - Utilização de bibliotecas e recursos da linguagem Python para codificação/decodificação, cálculos matemáticos e outros fins.
-- Vale ressaltar que a criptografia é um campo vasto e existem muitos outros algoritmos e técnicas a serem explorados. O projeto abordou especificamente o algoritmo RSA, mas há muito mais a ser descoberto sobre segurança da informação e criptografia.
 
-Em resumo, o projeto parece ter sido uma oportunidade valiosa para aprender e praticar habilidades em criptografia, manipulação de arquivos e implementação de algoritmos em Python. Se você estava interessado em explorar esses conceitos, certamente valeu a pena.ale ressaltar que a criptografia é um campo vasto e existem muitos outros algoritmos e técnicas a serem explorados. O projeto abordou especificamente o algoritmo RSA, mas há muito mais a ser descoberto sobre segurança da informação e criptografia.
+Em resumo, o projeto parece ter sido uma oportunidade valiosa para aprender e praticar habilidades em criptografia, manipulação de arquivos e implementação de algoritmos em Python. O projeto abordou especificamente o algoritmo RSA, mas há muito mais a ser descoberto sobre segurança da informação e criptografia.
