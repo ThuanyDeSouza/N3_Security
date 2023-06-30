@@ -6,12 +6,13 @@
 
 ## Planejamento e operação
 - O código foi organizado por etapas;
-- A maior dificuldade foi organizar cada etapa do jeito correto;
-- Escolhermos python para usar o Google Colab.
+- Escolhemos python para usar o Google Colab.
+- Durante o desenvolvimento tivemos problema com o código Encripta
+- Alterando o foco para o código decripta, conseguimos resolver o problema do Encripta
 
 ## Teste
-- Os testes foram feitos através do Google Colab utilizando o exemplo de chaves do professor.
-- Na criptografia, os valores não estão batendo com o exemplo do professor.
+- Os testes foram feitos através do Google Colab utilizando o exemplo de chaves e mensagem do professor.
+- Também foram feitos alguns testes usando mensagens com caracteres especiais.
 
 ## Avaliação do projeto
 ### Ao concluir esse projeto, foi possível aprender sobre os seguintes aspectos:
